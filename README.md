@@ -35,8 +35,11 @@ Presence provides:
 - MySQL
 - Gradle
 - REST APIs
-- Ngrok (for external API testing)
+- n8n (Workflow Automation)
+- Slack API (Notification Integration)
+- Ngrok (External API testing)
 - Postman (API Testing)
+
 
 ---
 
